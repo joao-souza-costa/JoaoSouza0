@@ -17,6 +17,6 @@
 </p>
 
 <p align="left">
-  <a href="[#](https://www.linkedin.com/in/joão-victor-costa-souza-3994b4147)" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/joão-victor-costa-souza-3994b4147" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 </p>  
