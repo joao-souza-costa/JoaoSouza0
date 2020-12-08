@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Tecnologias: <strong>JavaScript, HTML, CSS, BootStrap, NodeJS e SQL</strong>
+  🦄 Tecnologias: <strong>JavaScript, HTML, CSS, Bootstrap, NodeJS e SQL</strong>
 </p>
 
 <p align="left">
