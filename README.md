@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Docker, VSCode, Figma, Sharepoint e Requestia</strong>
+  💼 Ferramentas: <strong>Docker, VSCode, Sharepoint e Requestia</strong>
 </p>
 
 <p align="left">
