@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Tecnologias: <strong>JavaScript, HTML, CSS, Bootstrap, NodeJS e SQL</strong>
+  🦄 Tecnologias: <strong>JavaScript, HTML, CSS, Bootstrap, NodeJS, SQL, Vue.js e Nuxt.js</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Docker, VSCode, Sharepoint e Requestia</strong>
+  💼 Ferramentas: <strong>Docker, VSCode, Sharepoint, AEM e Requestia</strong>
 </p>
 
 <p align="left">
