@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Tecnologias: <strong>JavaScript, HTML, CSS, Bootstrap, NodeJS, SQL, Vue.js e Nuxt.js</strong>
+  🦄 Tecnologias: <strong>JavaScript, HTML, CSS, Bootstrap, NodeJS, SQL, Vue.js, Nuxt.js, Vuex, LESS, React.js</strong>
 </p>
 
 <p align="left">
